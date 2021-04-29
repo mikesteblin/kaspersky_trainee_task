@@ -1,5 +1,5 @@
 [
-    {"Value":"1772d0119cc344f719853b2c032c2921398636766efd3ed2ffbad1c798e2bd97","Type":"sha256"},
+	{"Value":"1772d0119cc344f719853b2c032c2921398636766efd3ed2ffbad1c798e2bd97","Type":"sha256"},
 	{"Value":"61fd0f24adff12ae85891cfa4c98e493","Type":"md5"},
 	{"Value":"7d7ba047e668a1aef261c8eb8453a530","Type":"md5"},
 	{"Value":"7d7bh047e668r1aef261c8es8453a530","Type":"md5"},
@@ -10,9 +10,9 @@
 	{"Value":"f80b25f6c267ec2a7d0fd60e7a77462e","Type":"md5"},
 	{"Value":"112b33bfeb2514bf11b0595c55173b32","Type":"md5"},
 	{"Value":"1772d0119cc344f719853b2c032c2921398636766efd3ed2ffbad1c798e2bd97","Type":"sha256"},
-    {"Value":"1772d0119cr344f719853b2c032g2921398636766efd3ed2ffbad1c798e2bd97","Type":"sha256"},
-    {"Value":"k8j5g3f.com","Type":"domain"},
-    {"Value":"seabreeze.ac.ug","Type":"domain"},
-    {"Value":"bwtlnhdiwgvuxvyp53.com","Type":"domain"},
+	{"Value":"1772d0119cr344f719853b2c032g2921398636766efd3ed2ffbad1c798e2bd97","Type":"sha256"},
+	{"Value":"k8j5g3f.com","Type":"domain"},
+	{"Value":"seabreeze.ac.ug","Type":"domain"},
+	{"Value":"bwtlnhdiwgvuxvyp53.com","Type":"domain"},
 	{"Value":"http://bwtlnhdiwgvuxvyp53.com/example","Type":"url"}
 ]
