@@ -1,0 +1,1 @@
+# kaspersky_trainee_task
